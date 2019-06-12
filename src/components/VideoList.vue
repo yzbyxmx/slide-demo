@@ -24,7 +24,7 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "../assets/scss/function";
+  /*@import "../assets/scss/base/function";*/
   .container {
     margin-top: px2Vw(35);
   }
@@ -51,9 +51,6 @@
         width: px2Vw(180);
         height: 83px;
         font-size: px2Vw(12);
-        .cor-cau {
-          color: #FF8939;
-        }
       }
       .buy {
         span {

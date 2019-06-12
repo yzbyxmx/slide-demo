@@ -14,7 +14,7 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "../../assets/scss/function";
+  @import "../../assets/scss/base/function";
   .loading-word {
     text-align: center;
     z-index: 100;

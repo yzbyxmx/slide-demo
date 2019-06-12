@@ -133,42 +133,6 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "../assets/scss/function";
-  #search{
-    padding:0.2rem 1.8rem 0.2rem 0.5rem;
-    position: relative;
-    div{
-      position: relative;
-      span{
-        position: absolute;
-        right:0;top:50%;
-        transform:translateY(-50%);
-        color: #888;
-      }
-    }
-    input{
-      width:100%;
-      background:#fff;
-      border: none;
-      height: 0.7rem;
-      padding-left: 0.4rem;
-      vertical-align: middle;
-    }
-    button{
-      position: absolute;
-      right:0;
-      top:50%;
-      margin-top: -0.35rem;
-      width:1.5rem;
-      height: 0.7rem;
-      line-height: 0.7rem;
-      text-align: center;
-      background:none;
-      border: none;
-      color: #fff;
-      vertical-align: middle;
-    }
-  }
   .list {
     height: 100%;
     position: relative;

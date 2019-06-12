@@ -109,8 +109,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
-  @import "../assets/scss/mixinx";
-  @import "../assets/scss/variables";
+  @import "../assets/scss/base/mixinx";
+  @import "../assets/scss/base/variables";
  .hello {
     height: 100%;
  }

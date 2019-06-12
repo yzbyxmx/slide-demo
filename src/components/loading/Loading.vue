@@ -12,7 +12,7 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "../../assets/scss/function";
+  @import "../../assets/scss/base/function";
   .loading {
     text-align: center;
     z-index: 100;
