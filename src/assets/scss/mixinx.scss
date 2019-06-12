@@ -1,0 +1,6 @@
+@import "function";
+@mixin circle ($width) {
+  width: $width;
+  height: $width;
+  border-radius: 100%;
+}
